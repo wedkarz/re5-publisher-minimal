@@ -1,0 +1,8 @@
+K 13
+svn:externals
+V 281
+org/red5/samples/publisher  http://red5.googlecode.com/svn/flash/trunk/classes/org/red5/samples/publisher/
+org/red5/ui                 http://red5.googlecode.com/svn/flash/trunk/classes/org/red5/ui/
+publisher                   http://red5.googlecode.com/svn/flash/trunk/publisher/
+
+END
