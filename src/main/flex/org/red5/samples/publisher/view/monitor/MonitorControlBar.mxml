@@ -2,11 +2,11 @@
 <view:MonitorControlBarClass xmlns:mx="http://www.adobe.com/2006/mxml"
 							 xmlns:view="org.red5.samples.publisher.view.monitor.*">
 	
-	<mx:StringValidator source="{ playback_txt }" property="text" 
-	        tooShortError="{ tooShortError }" 
-	        minLength="1" trigger="{ playButton }" triggerEvent="click" 
-	        enabled="{ main.netConnected }"
-	        valid="viewStream()"/>
+	<!--<mx:StringValidator source="{ playback_txt }" property="text" -->
+	        <!--tooShortError="{ tooShortError }" -->
+	        <!--minLength="1" trigger="{ playButton }" triggerEvent="click" -->
+	        <!--enabled="{ main.netConnected }"-->
+	        <!--valid="viewStream()"/>-->
 	
 	<mx:StringValidator source="{ playback_txt }" property="text" 
 	        tooShortError="{ tooShortError }" 
@@ -57,7 +57,7 @@
 								   enabled="{ main.netConnected }" tabEnabled="false"
 								   click="stopStream()"/>
 						<mx:Button id="playButton" label="{ main.playButtonLabel }" width="60"
-							   	   enabled="{ main.netConnected }" tabEnabled="false"/>
+							   	   enabled="{ main.netConnected }" tabEnabled="false" click="viewStream()"/>
 					</mx:HBox>
 					
 					<!--<mx:HBox width="100%" paddingTop="3" horizontalGap="2">-->

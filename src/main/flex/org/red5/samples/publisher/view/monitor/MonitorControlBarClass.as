@@ -108,9 +108,10 @@ package org.red5.samples.publisher.view.monitor
 				{
 					// Start playback from beginning.
 					var playStreamEvent : PlayStreamEvent = new PlayStreamEvent( bufferTime, 
-																				 streamName,
-																				 enableVideo.selected,
-																				 enableAudio.selected );
+																				 streamName, false, true
+																				 //enableVideo.selected,
+																				 //enableAudio.selected
+																				 );
 					playStreamEvent.dispatch();
 				} 
 				else if ( main.playbackState == main.pauseState )

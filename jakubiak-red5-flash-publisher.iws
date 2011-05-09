@@ -3,9 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="5128ef49-ede9-49f0-b5fb-2b5668641897" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/model/Navigation.as" afterPath="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/model/Navigation.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/LogPod.mxml" afterPath="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/LogPod.mxml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/MonitorPod.mxml" afterPath="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/MonitorPod.mxml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/monitor/MonitorControlBar.mxml" afterPath="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/monitor/MonitorControlBar.mxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/monitor/MonitorControlBarClass.as" afterPath="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/monitor/MonitorControlBarClass.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/settings/SettingsDisplay.mxml" afterPath="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/settings/SettingsDisplay.mxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/settings/SettingsDisplayClass.as" afterPath="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/settings/SettingsDisplayClass.as" />
     </list>
     <ignored path="jakubiak-red5-flash-publisher.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,57 +68,129 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SettingsDisplay.mxml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SettingsDisplay.mxml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/settings/SettingsDisplay.mxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="120" column="52" selection-start="6913" selection-end="6913" vertical-scroll-proportion="0.6032316">
+            <state line="52" column="82" selection-start="2858" selection-end="2858" vertical-scroll-proportion="-10.88">
               <folding>
-                <marker date="1304906650975" expanded="true" signature="401:418" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="401:418" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="646:663" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="646:663" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="772:798" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="772:798" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="1189:1245" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="1262:1285" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="1672:1712" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="3270:3323" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="3414:3457" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="3414:3457" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="3715:3768" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="7311:7336" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="7311:7336" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="7311:7336" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="7479:7514" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="7479:7514" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="7479:7514" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="7935:7952" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="7935:7952" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="7935:7952" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="7935:7952" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="8162:8202" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="8162:8202" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="8162:8202" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="8490:8530" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="8490:8530" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="8490:8530" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="8895:8943" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="8895:8943" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="8895:8943" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="9274:9324" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="9274:9324" placeholder="{...}" />
-                <marker date="1304906650975" expanded="true" signature="9274:9324" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="426:443" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="426:443" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="674:691" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="674:691" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="800:826" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="800:826" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="1217:1273" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="1290:1313" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="1560:1577" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="1724:1764" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="3322:3375" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="3470:3513" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="3470:3513" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="3806:3859" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="3990:4021" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="7411:7436" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="7411:7436" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="7411:7436" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="7579:7614" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="7579:7614" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="7579:7614" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="8035:8052" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="8035:8052" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="8035:8052" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="8262:8302" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="8262:8302" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="8262:8302" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="8262:8302" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="8590:8630" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="8590:8630" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="8590:8630" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="8995:9043" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="8995:9043" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="9374:9424" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="9374:9424" placeholder="{...}" />
+                <marker date="1304908809758" expanded="true" signature="9374:9424" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SettingsAppBar.mxml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/settings/SettingsAppBar.mxml">
+      <file leaf-file-name="SettingsDisplayClass.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/settings/SettingsDisplayClass.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="36" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0">
+            <state line="114" column="62" selection-start="3610" selection-end="3610" vertical-scroll-proportion="-7.52">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonitorControlBar.mxml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/monitor/MonitorControlBar.mxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="105" selection-start="2739" selection-end="2739" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1304902240390" expanded="true" signature="386:414" placeholder="{...}" />
+                <marker date="1304909634679" expanded="true" signature="443:455" placeholder="{...}" />
+                <marker date="1304909634679" expanded="true" signature="701:713" placeholder="{...}" />
+                <marker date="1304909634679" expanded="true" signature="956:970" placeholder="{...}" />
+                <marker date="1304909634679" expanded="true" signature="1211:1225" placeholder="{...}" />
+                <marker date="1304909634679" expanded="true" signature="1211:1225" placeholder="{...}" />
+                <marker date="1304909634679" expanded="true" signature="2168:2380" placeholder="/**&lt;mx:Label text=&quot;00:00:00&quot; paddingTop=&quot;2&quot; fontWeight=&quot;bold&quot; fontSize=&quot;10&quot;/&gt; ...*/" />
+                <marker date="1304909634679" expanded="true" signature="2168:2380" placeholder="/**&lt;mx:Label text=&quot;00:00:00&quot; paddingTop=&quot;2&quot; fontWeight=&quot;bold&quot; fontSize=&quot;10&quot;/&gt; ...*/" />
+                <marker date="1304909634679" expanded="true" signature="2562:2574" placeholder="{...}" />
+                <marker date="1304909634679" expanded="true" signature="2727:2739" placeholder="{...}" />
+                <marker date="1304909634679" expanded="true" signature="4531:4559" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonitorControlBarClass.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/monitor/MonitorControlBarClass.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="120" column="80" selection-start="3132" selection-end="3132" vertical-scroll-proportion="0.6474954">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/model/Main.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="297" column="71" selection-start="5945" selection-end="5949" vertical-scroll-proportion="-14.48">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogPodClass.as" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/LogPodClass.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogPod.mxml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/LogPod.mxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="365" selection-end="495" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogControlBar.mxml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/log/LogControlBar.mxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1304902240549" expanded="true" signature="563:601" placeholder="{...}" />
+                <marker date="1304902240549" expanded="true" signature="770:808" placeholder="{...}" />
+                <marker date="1304902240549" expanded="true" signature="1014:1050" placeholder="{...}" />
+                <marker date="1304902240549" expanded="true" signature="1218:1252" placeholder="{...}" />
+                <marker date="1304902240549" expanded="true" signature="1460:1500" placeholder="{...}" />
+                <marker date="1304902240549" expanded="true" signature="1672:1712" placeholder="{...}" />
+                <marker date="1304902240549" expanded="true" signature="1927:1937" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -139,15 +214,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Navigation.as" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/model/Navigation.as">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="48" selection-start="1946" selection-end="1946" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -159,11 +225,14 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/MonitorPod.mxml" />
-        <option value="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/monitor/MonitorControlBar.mxml" />
         <option value="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/settings/SettingsAppBarClass.as" />
         <option value="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/model/Navigation.as" />
         <option value="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/command/ChangeMonitorViewCommand.as" />
+        <option value="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/LogPod.mxml" />
         <option value="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/settings/SettingsDisplay.mxml" />
+        <option value="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/settings/SettingsDisplayClass.as" />
+        <option value="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/monitor/MonitorControlBar.mxml" />
+        <option value="$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/monitor/MonitorControlBarClass.as" />
       </list>
     </option>
   </component>
@@ -445,6 +514,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="log" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jakubiak-red5-flash-publisher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jakubiak-red5-flash-publisher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="red5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="publisher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="general" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -601,7 +708,9 @@
       </method>
     </configuration>
     <configuration default="false" name="main" type="FlexRunConfigurationType" factoryName="Flex" browser_family="FIREFOX" debugger_sdk="Module SDK" html_or_swf_file_path="$PROJECT_DIR$/target/_main.swf" launcher_type="OSDefault" main_class_name="publisher.main" module_name="jakubiak-red5-flash-publisher" player_path="FlashPlayer.exe" run_mode="MainClass" run_trusted="false" url_to_launch="http://">
+      <RunnerSettings RunnerId="FlexDebugRunner" />
       <RunnerSettings RunnerId="FlexRunner" />
+      <ConfigurationWrapper RunnerId="FlexDebugRunner" />
       <ConfigurationWrapper RunnerId="FlexRunner" />
       <method />
     </configuration>
@@ -665,17 +774,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39954075" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295063" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295063" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -726,38 +835,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/flex/publisher/main.mxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="48" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/monitor/MonitorControlBar.mxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="12" selection-start="2546" selection-end="2546" vertical-scroll-proportion="-0.4344704">
-          <folding>
-            <marker date="1304905262741" expanded="true" signature="411:423" placeholder="{...}" />
-            <marker date="1304905262741" expanded="true" signature="666:678" placeholder="{...}" />
-            <marker date="1304905262741" expanded="true" signature="921:935" placeholder="{...}" />
-            <marker date="1304905262741" expanded="true" signature="1176:1190" placeholder="{...}" />
-            <marker date="1304905262741" expanded="true" signature="2133:2345" placeholder="/**&lt;mx:Label text=&quot;00:00:00&quot; paddingTop=&quot;2&quot; fontWeight=&quot;bold&quot; fontSize=&quot;10&quot;/&gt; ...*/" />
-            <marker date="1304905262741" expanded="true" signature="2527:2539" placeholder="{...}" />
-            <marker date="1304905262741" expanded="true" signature="2964:2982" placeholder="{...}" />
-            <marker date="1304905262741" expanded="true" signature="3127:3145" placeholder="{...}" />
-            <marker date="1304905262741" expanded="true" signature="3277:3305" placeholder="{...}" />
-            <marker date="1304905262741" expanded="true" signature="4475:4503" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/Publisher.mxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="34" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/general/SaveConnection.mxml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -766,13 +843,6 @@
             <marker date="1304902241377" expanded="true" signature="670:684" placeholder="{...}" />
             <marker date="1304902241377" expanded="true" signature="950:965" placeholder="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/LogPod.mxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -792,16 +862,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/settings/SettingsAppBarClass.as">
+    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/model/Navigation.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="69" column="48" selection-start="1946" selection-end="1946" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/model/Navigation.as">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/adobe/flex/framework/framework/3.5.0.12683/framework-3.5.0.12683.swc!/library.swf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="48" selection-start="1946" selection-end="1946" vertical-scroll-proportion="0.0">
+        <state line="20238" column="136" selection-start="973533" selection-end="973584" vertical-scroll-proportion="0.7528517">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/vo/settings/GeneralSettings.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="17" selection-start="1750" selection-end="1755" vertical-scroll-proportion="0.6361868">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/settings/SettingsAppBarClass.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -813,46 +897,115 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/log/LogControlBar.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1304902240549" expanded="true" signature="563:601" placeholder="{...}" />
+            <marker date="1304902240549" expanded="true" signature="770:808" placeholder="{...}" />
+            <marker date="1304902240549" expanded="true" signature="1014:1050" placeholder="{...}" />
+            <marker date="1304902240549" expanded="true" signature="1218:1252" placeholder="{...}" />
+            <marker date="1304902240549" expanded="true" signature="1460:1500" placeholder="{...}" />
+            <marker date="1304902240549" expanded="true" signature="1672:1712" placeholder="{...}" />
+            <marker date="1304902240549" expanded="true" signature="1927:1937" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/LogPod.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="365" selection-end="495" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/LogPodClass.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/model/Main.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="297" column="71" selection-start="5945" selection-end="5949" vertical-scroll-proportion="-14.48">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/settings/SettingsDisplay.mxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="52" selection-start="6913" selection-end="6913" vertical-scroll-proportion="0.6032316">
+        <state line="52" column="82" selection-start="2858" selection-end="2858" vertical-scroll-proportion="-10.88">
           <folding>
-            <marker date="1304906650975" expanded="true" signature="401:418" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="401:418" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="646:663" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="646:663" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="772:798" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="772:798" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="1189:1245" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="1262:1285" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="1672:1712" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="3270:3323" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="3414:3457" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="3414:3457" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="3715:3768" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="7311:7336" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="7311:7336" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="7311:7336" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="7479:7514" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="7479:7514" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="7479:7514" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="7935:7952" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="7935:7952" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="7935:7952" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="7935:7952" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="8162:8202" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="8162:8202" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="8162:8202" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="8490:8530" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="8490:8530" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="8490:8530" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="8895:8943" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="8895:8943" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="8895:8943" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="9274:9324" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="9274:9324" placeholder="{...}" />
-            <marker date="1304906650975" expanded="true" signature="9274:9324" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="426:443" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="426:443" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="674:691" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="674:691" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="800:826" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="800:826" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="1217:1273" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="1290:1313" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="1560:1577" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="1724:1764" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="3322:3375" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="3470:3513" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="3470:3513" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="3806:3859" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="3990:4021" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="7411:7436" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="7411:7436" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="7411:7436" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="7579:7614" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="7579:7614" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="7579:7614" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="8035:8052" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="8035:8052" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="8035:8052" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="8262:8302" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="8262:8302" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="8262:8302" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="8262:8302" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="8590:8630" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="8590:8630" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="8590:8630" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="8995:9043" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="8995:9043" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="9374:9424" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="9374:9424" placeholder="{...}" />
+            <marker date="1304908809758" expanded="true" signature="9374:9424" placeholder="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/settings/SettingsDisplayClass.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="62" selection-start="3610" selection-end="3610" vertical-scroll-proportion="-7.52">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/monitor/MonitorControlBar.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="105" selection-start="2739" selection-end="2739" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1304909634679" expanded="true" signature="443:455" placeholder="{...}" />
+            <marker date="1304909634679" expanded="true" signature="701:713" placeholder="{...}" />
+            <marker date="1304909634679" expanded="true" signature="956:970" placeholder="{...}" />
+            <marker date="1304909634679" expanded="true" signature="1211:1225" placeholder="{...}" />
+            <marker date="1304909634679" expanded="true" signature="1211:1225" placeholder="{...}" />
+            <marker date="1304909634679" expanded="true" signature="2168:2380" placeholder="/**&lt;mx:Label text=&quot;00:00:00&quot; paddingTop=&quot;2&quot; fontWeight=&quot;bold&quot; fontSize=&quot;10&quot;/&gt; ...*/" />
+            <marker date="1304909634679" expanded="true" signature="2168:2380" placeholder="/**&lt;mx:Label text=&quot;00:00:00&quot; paddingTop=&quot;2&quot; fontWeight=&quot;bold&quot; fontSize=&quot;10&quot;/&gt; ...*/" />
+            <marker date="1304909634679" expanded="true" signature="2562:2574" placeholder="{...}" />
+            <marker date="1304909634679" expanded="true" signature="2727:2739" placeholder="{...}" />
+            <marker date="1304909634679" expanded="true" signature="4531:4559" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/flex/org/red5/samples/publisher/view/monitor/MonitorControlBarClass.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="120" column="80" selection-start="3132" selection-end="3132" vertical-scroll-proportion="0.6474954">
+          <folding />
         </state>
       </provider>
     </entry>

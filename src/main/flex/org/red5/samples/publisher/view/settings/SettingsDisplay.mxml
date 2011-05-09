@@ -2,10 +2,10 @@
 <view:SettingsDisplayClass xmlns:mx="http://www.adobe.com/2006/mxml"
 						   xmlns:view="org.red5.samples.publisher.view.settings.*">
 	
-	<mx:StringValidator source="{ host_txt }" property="text" 
-	        tooShortError="This URI is shorter than the minimum allowed length." 
-	        minLength="8" trigger="{ connect_btn }" triggerEvent="click"
-	        valid="setupConnection()"/>
+	<!--<mx:StringValidator source="{ host_txt }" property="text" -->
+	        <!--tooShortError="This URI is shorter than the minimum allowed length." -->
+	        <!--minLength="8" trigger="{ connect_btn }" triggerEvent="click"-->
+	        <!--valid="setupConnection()"/>-->
 	
 	<mx:StringValidator source="{ host_txt }" property="text" 
 	        tooShortError="This URI is shorter than the minimum allowed length." 
@@ -27,7 +27,7 @@
 						 focusEnabled="false" textIndent="3" rowCount="8"/>	
 										
 			<mx:Button id="connect_btn" label="{ main.connectButtonLabel }" width="72"
-					   toolTip="{ connect_btn.label }" focusEnabled="false"/>  
+					   toolTip="{ connect_btn.label }" focusEnabled="false" click="setupConnection()"/>
 		</mx:Box>
 		
 		<mx:Box y="35" direction="horizontal" width="100%" height="100%" horizontalGap="0">
@@ -60,18 +60,18 @@
 						 selectedIndex="{ main.generalSettings.server }" fontWeight="bold"
 						 change="{ main.images.serverLogo = type_cb.selectedItem.img }"/>
 			<mx:Spacer width="-2"/>
-			<mx:LinkButton label="Buffer" fontWeight="normal" click="openLink( 'net/NetStream.html#bufferTime' )"
-						   toolTip="Buffer Time" focusEnabled="false"/>
-			<mx:Spacer width="-10"/>
-			<mx:NumericStepper id="buffer_ns" width="81" focusThickness="0.5" fontWeight="bold" textIndent="3"
-							   value="{ main.generalSettings.bufferTime }"
-							   change="{ main.generalSettings.bufferTime = buffer_ns.value }"/>
+			<!--<mx:LinkButton label="Buffer" fontWeight="normal" click="openLink( 'net/NetStream.html#bufferTime' )"-->
+						   <!--toolTip="Buffer Time" focusEnabled="false"/>-->
+			<!--<mx:Spacer width="-10"/>-->
+			<!--<mx:NumericStepper id="buffer_ns" width="81" focusThickness="0.5" fontWeight="bold" textIndent="3"-->
+							   <!--value="{ main.generalSettings.bufferTime }"-->
+							   <!--change="{ main.generalSettings.bufferTime = buffer_ns.value }"/>-->
 		</mx:Box>
 		
 	</mx:Canvas>
 	
 	<!-- video settings -->
-	<mx:Canvas id="video" width="100%" height="100%" creationComplete="initializeVideoSettings()" textIndent="3">
+	<mx:Canvas id="video" width="100%" height="100%" creationComplete="/* initializeVideoSettings() */" textIndent="3">
 
 	    <!--<mx:Box direction="horizontal" width="100%" height="100%" horizontalGap="-1">-->
 			<!--<mx:LinkButton id="video_txt" click="openLink( 'media/Camera.html' )" fontWeight="normal" -->

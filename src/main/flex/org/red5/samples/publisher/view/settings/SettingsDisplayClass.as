@@ -22,8 +22,10 @@ package org.red5.samples.publisher.view.settings
 	import com.adobe.cairngorm.control.CairngormEventDispatcher;
 	
 	import flash.events.*;
-	
-	import mx.containers.ViewStack;
+
+import flash.net.ObjectEncoding;
+
+import mx.containers.ViewStack;
 	import mx.controls.*;
 	import mx.events.*;
 	
@@ -106,11 +108,13 @@ package org.red5.samples.publisher.view.settings
 		public function setupConnection() : void
 		{
 			// Get AMF type from the encoding_cb Combobox.
-			var encodingType : uint = main.objectEncodeTypes[ encoding_cb.selectedIndex ].data;
+			//var encodingType : uint = main.objectEncodeTypes[ encoding_cb.selectedIndex ].data;
+            var encodingType : uint = ObjectEncoding.AMF0;
 			//
-			var hostName : String = host_txt.text;
+            //TODO: tutaj trzeba będzie jakoś ściągnąć ip serwera - pytanie jak?!
+			var hostName : String = "rtmp://localhost/oflaDemo";
 			//
-			var proxyType : String = proxy_cb.selectedItem.data;
+			var proxyType : String = "none";
 			// Create connection with server.
 			if ( main.connectButtonLabel == main.btnConnect ) 
 			{
